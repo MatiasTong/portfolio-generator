@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MatiasTong/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/MatiasTong/portfolio-generator#readme"
+  "homepage": "https://github.com/MatiasTong/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
